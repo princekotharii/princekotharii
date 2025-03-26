@@ -6,29 +6,25 @@
 
 ## 🚀 About Me  
 - 💬 I’m passionate about **Software Development** and **Web Development**.  
-- 📚 Currently diving into **Microprocessors**, **Java**, **HTML**, and **CSS**.  
+- 📚 Currently Studing 
 - 🤝 Always open to collaborating on exciting projects and learning from fellow developers.  
 - 🎯 Aspiring to build meaningful applications and contribute to open-source.  
 
 ## 📬 Get in Touch  
-- 📧 Email: [princekothari029@gmail.com](mailto:princekothari029@gmail.com)  
-- 🌐 Portfolio: Coming Soon...  
-- 💼 LinkedIn: [Prince Kothari](#) (Add your LinkedIn link here)  
+- 📧 Email: [princekothari029@gmail.com](mailto:princekothari029@gmail.com)   
 
 ## ⚙️ Tech Skills  
-- Programming Languages: **Java**  
-- Web Development: **HTML**, **CSS**  
-- Learning: **Microprocessors**  
+- Programming Languages: **Python**,**Java**,  **C++**, **C**  
+- Web Development: **HTML**, **CSS**, **JavaScript  
+- Learning: **About AI**  
 
 ## 🌟 Projects  
 - 📝 **Portfolio Website** — Designing a personal website to showcase my work.  
 - 💻 **Java Practice Projects** — Solved coding problems and created mini Java applications.  
 - 🌐 **Responsive Web Pages** — Developed mobile-friendly web pages with HTML and CSS.  
 
-## 📜 Certifications  
 - ✅ Completed Advanced Java Basics  
-- ✅ Mastered HTML and CSS Fundamentals  
-- 📌 (Add any other certificates you’ve earned here)  
+- ✅ Mastered HTML and CSS Fundamentals    
 
 ## 📊 GitHub Stats  
 ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princekotharii&show_icons=true&theme=radical)  
