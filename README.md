@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=princekotharii&color=brightgreen)  
 ![GitHub Followers](https://img.shields.io/github/followers/princekotharii?style=social)  
-![Languages](https://img.shields.io/badge/Code-Java%20%7C%20HTML%20%7C%20CSS%20%7C%20React%20%7C%20tTailwind CSS%20%7C%20Figma-orange)  
+![Languages](https://img.shields.io/badge/Code-Java%20%7C%20HTML%20%7C%20CSS%20%7C%20React%20%7C%20tTailwind-CSS%20%7C%20Figma-orange)  
 
 ## 🚀 About Me  
 - 💬 I’m passionate about **Software Development** and **Web Development**.  
